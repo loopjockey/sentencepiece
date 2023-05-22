@@ -1,0 +1,1 @@
+export const howdy = () => console.log('worldy');

@@ -1,0 +1,1 @@
+export { howdy } from './test';
